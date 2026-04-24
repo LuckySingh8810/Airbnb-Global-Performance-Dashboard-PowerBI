@@ -136,7 +136,7 @@ Some important findings from the dashboard include:
 
 Click below to view the complete dashboard:
 
-[Download Airbnb Dashboard PDF](reportsAirbnb_Dashboard.pdf)
+[Download Airbnb Dashboard PDF](reportsAirbnb_Dashboard.pdf.pdf)
 
 ---
 
